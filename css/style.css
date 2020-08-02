@@ -1,0 +1,161 @@
+.main{
+    width: 100%;
+    height: auto;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+nav {
+    background-color: #000000;
+    text-align: center;
+    position: fixed;
+	left: 0;
+	top: 0;
+	width: 100%;
+    height: 56px;
+	z-index: 100000;
+	cursor: default;
+}
+.top-nav ul,li,a{
+    
+    color: #FFFFFF;
+	padding: 0.2em 1em;
+	font-size: 16px;
+	font-weight: 500;
+	text-align: center;
+	text-transform: uppercase;
+	position: relative;
+}
+nav ul {
+	margin: 0.5em 0.5em;
+}
+nav li {
+	display: inline;
+	width：20%;
+	position: relative;
+}
+nav a {
+	color: #fff;
+    position: relative;
+	display: inline-block;
+	text-align: center;
+	text-decoration: none;
+	line-height: 26px;
+}
+
+.introduction {
+    width: 100%;
+    height: auto;
+    position: absolute;
+    top: 56px;
+    left: 0px;
+    
+    font-family: sans-serif;
+	color: #777;
+    z-index: 10;
+}
+.introduction a {
+    font-family: sans-serif;
+	color: #777;
+    padding: 0em 0em;
+    font-size: 1em;
+    text-transform: none;
+}
+.row {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+}
+.photo {
+    position: absolute;
+    top: 100px;
+    left: 40px;
+}
+.brief {
+    position: absolute;
+    top: 370px;
+    left: 40px;
+    width: 180px;
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 1.3em;
+}
+.bigger {
+    font-size: 1.5em;
+    font-weight: 2.5em;
+}
+.bigger a {
+    font-size: 1em;
+    text-transform: none;
+}
+.smaller {
+    font-size: 0.8em;
+    font-weight: 0.5em;
+}
+.about {
+    position: absolute;
+    top: 0px;
+    left: 270px;
+    right: 60px;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.8em;
+}
+.work {
+    position: relative;
+    left: 270px;
+    right: 80px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.8em;
+}
+.baise {
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
